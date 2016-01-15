@@ -1,6 +1,7 @@
 # TensorHawkes
 
 ## Description: 
-** Pairwise tensor factorization meets Hakwes process **
+    Pairwise tensor factorization meets Hakwes process
+
 
 
